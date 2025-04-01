@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Álvaro Maceda
 
-<!--
-**AlvaroMaceda/AlvaroMaceda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer | Software Engineer | Educator**
 
-Here are some ideas to get you started:
+I'm a passionate software engineer with extensive experience in full-stack development, data engineering, and education. I love solving complex problems, designing efficient systems, and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 💡 **Innovative Thinker** – I enjoy building scalable and maintainable solutions.
+- 📚 **Lifelong Learner** – Always exploring new frameworks, languages, and methodologies.
+- 🎓 **Educator** – Passionate about sharing knowledge through teaching and mentorship.
+- 💻 **Tech Enthusiast** – Interested in Web3, AI, and modern backend technologies.
+
+## 🛠 Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Ruby, Python
+- **Frameworks:** Node.js, React, Rails, Flask
+- **Databases:** PostgreSQL, MySQL, MariaDB, Oracle
+- **Tools & Platforms:** Docker, Git, CI/CD, Linux
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaromaceda/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlvaroMaceda)
+
+📍 **Location:** Valencia, Spain
+
+📧 **Email:** [alvaro@alvaromaceda.es](mailto:alvaro@alvaromaceda.es)
+
+
+💼 Open to new opportunities in web development, data science and AI!
+
+---
+
+_✨ Let's build something amazing together!_ 🚀
