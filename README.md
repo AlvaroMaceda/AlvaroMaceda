@@ -30,6 +30,8 @@ I'm a passionate software engineer with extensive experience in full-stack devel
 
 💼 Open to new opportunities in web development, data science and AI!
 
+📄 **[View My Full Resume](https://github.com/AlvaroMaceda/curriculum)**
+
 ---
 
 _✨ Let's build something amazing together!_ 🚀
